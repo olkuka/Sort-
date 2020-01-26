@@ -1,1 +1,1 @@
-basic sorting algorithms for Algorithms and Data Structures (AISDI) at WUT
+(Warsaw University of Technology) sorting algorithms for Algorithms and Data Structures in C++
