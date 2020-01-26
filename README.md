@@ -1,3 +1,2 @@
-(Warsaw University of Technology) 
-
-**sorting algorithms for Algorithms and Data Structures in C++**
+# Algorithms and Data Structures in C++
+sorting algorithms on 3rd semester at Warsaw University of Technology
